@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="banner - My Links" src="./assets/img/Banner.png" width="200" />
+    <img alt="banner - My Links" src="./assets/img/Banner.png" width="400" />
 </h1>
 
 #Projeto
@@ -9,6 +9,7 @@ Projeto feito no video <a href="https://www.youtube.com/watch?v=wXnlHIvKnTM">Vid
 </p>
 
 ##Tecnologias
--HTML
--CSS
--Javascript
+
+    -- HTML
+    -- CSS
+    -- Javascript
